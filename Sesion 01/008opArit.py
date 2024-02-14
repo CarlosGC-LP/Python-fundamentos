@@ -23,6 +23,7 @@ num1 *= num2
 print('Usando el operador *=, num1 ahora vale: ', num1)
 
 num1 = 5
+
 num1 /= num2
 
 print('Usando el operador /=, num1 ahora vale: ', num1)
