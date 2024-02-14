@@ -3,4 +3,4 @@
 mensaje1 = 'Hola'
 mensaje2 = 'ola'
 
-print(mensaje1 == mensaje2)
+print('El resultado de la comparacion de las cadenas es: ', mensaje1 == mensaje2)
