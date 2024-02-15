@@ -3,6 +3,8 @@
 nombre = input('Escribe tu nombre: ')
 edad = int(input('Escribe tu edad: '))
 
+print(' ')
+
 if (edad >= 18):
     print(nombre, 'ya puede votar, tiene:', edad, 'años')
 else:
