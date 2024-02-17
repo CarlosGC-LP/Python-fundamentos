@@ -18,7 +18,6 @@ print('La edad de la persona1 es:', persona1.edad)
 
 print(f'\nEl nombre de la persona2 es: {persona2.nombre}', 
       f'\nLa edad de la persona2 es: {persona2.edad}')
-
 #Accederemos a los métodos de los objetos
 print('')
 persona1.saludar()
