@@ -10,6 +10,8 @@ class Usuario:
         print('El alias del usuario es:', self.alias)
         print('El nombre del usuario es:', self.nombre)
         print('El apellido del usuario es:', self.apellidos)
-#Crearemos el objeto de esta clase y usaremos sus métodos
-user = Usuario(13, 'Fer', 'Jesus Fernando', 'Cruz Alvares')
-user.muestra_datos()
+'''
+    #Crearemos el objeto de esta clase y usaremos sus métodos
+    user = Usuario(13, 'Fer', 'Jesus Fernando', 'Cruz Alvares')
+    user.muestra_datos()
+'''
